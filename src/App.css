@@ -66,3 +66,17 @@ body {
 a:hover {
   color: #FFFFFF ;
 }
+.app-modal {
+  color: #000000;
+}
+.app-link {
+  cursor: pointer;
+  color: #FFFFFF;
+}
+.add-button {
+  float: right;
+  margin-bottom: 2%;
+}
+.add-user-row {
+  margin-top: 1%;
+}
